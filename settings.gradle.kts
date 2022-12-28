@@ -1,0 +1,1 @@
+rootProject.name = "com.ygohel18.ktor-api"
